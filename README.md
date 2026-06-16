@@ -1,2 +1,2 @@
-# the-archive-cdn
+# private-cdn
 Storage
